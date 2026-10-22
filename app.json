@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "used-copper-narwhal",
+    "slug": "used-copper-narwhal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.usedcoppernarwhal" },
+    "scheme": "usedcoppernarwhal"
+  }
+}
